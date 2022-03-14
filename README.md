@@ -1,6 +1,6 @@
 # Wine-breakdown
 
-## Whant is it?
+## What is it?
 
 Wine breakdown - API
 
