@@ -27,9 +27,9 @@ Available LotCode are:
 3. Access to breakdown folder using command line.
 
 4. Run the application using below command
-
+```
     java -jar /build/libs/breakdown.jar
-   
+```  
 5. After the server is running, go to browser
 
 ```
