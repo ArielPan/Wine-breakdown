@@ -28,7 +28,7 @@ Available LotCode are:
 
 4. Run the application using below command
 ```
-    java -jar /build/libs/breakdown.jar
+    java -jar /build/libs/breakdown-0.0.1-SNAPSHOT.jar
 ```  
 5. After the server is running, go to browser
 
